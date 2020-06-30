@@ -1,0 +1,6 @@
+"Aang"
+"Katara"
+"Sokka"
+"Toph"
+"Appa"
+"Momo"
